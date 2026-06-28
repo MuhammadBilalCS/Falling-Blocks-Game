@@ -1,0 +1,3 @@
+g++ -std=c++17 -o tetris.exe tetris.cpp -lraylib -lopengl32 -lgdi32 -lwinmm
+./tetris
+"Also mention in readme file"
