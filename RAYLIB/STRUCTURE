@@ -1,0 +1,37 @@
+MyRaylibProject/
+│
+├── src/
+│   ├── main.cpp
+│   ├── game.cpp
+│   ├── player.cpp
+│   └── enemy.cpp
+│
+├── include/
+│   ├── game.h
+│   ├── player.h
+│   └── enemy.h
+│
+├── assets/
+│   ├── textures/
+│   │   ├── player.png
+│   │   └── background.png
+│   │
+│   ├── sounds/
+│   │   ├── jump.wav
+│   │   └── music.mp3
+│   │
+│   ├── fonts/
+│   │   └── font.ttf
+│   │
+│   └── maps/
+│       └── level1.json
+│
+├── lib/
+│   └── raylib/
+│
+├── build/
+│   └── game.exe
+│
+├── CMakeLists.txt
+├── README.md
+└── .gitignore
